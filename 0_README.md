@@ -1,11 +1,17 @@
-# sales_customerAnalysis
+# Sales & Customer Data Processing and Analysis
 
-In this project, a complete analysis of a retail company's dataset has been done, from Business problem to finding key insights and recommendations.
+A Python + SQL based project to clean, process, and analyze customer shopping behavior.  
+Includes EDA in Python and a Power BI dashboard for KPI reporting.
 
-Workflow ->
-1. Business Problem
-2. Dataset
-3. EDA using Python
-4. Data Analysis using SQL
-5. Interactive Dashboard using PowerBI
-6. Insights and Recommendations
+## Key Features
+- Python preprocessing (data cleaning, formatting)  
+- SQL queries for aggregated metrics  
+- Visual analysis in Power BI  
+- Structured notebook and reproducible workflow
+
+## Structure
+- Jupyter Notebook  
+- SQL Script  
+- Power BI Dashboard  
+- Dataset (CSV)
+
